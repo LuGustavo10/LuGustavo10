@@ -18,7 +18,6 @@
   <img align="center" alt="Lu_10-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lu_10-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Lu_10-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Lu_10-img" height="200" style="border-radius:50px;" https://uploaddeimagens.com.br/imagens/j-G0pjw">
 </div>
 
 ##
