@@ -1,32 +1,10 @@
-### Olá!!! Me chamo Luís Gustavo 😀👋
-### Seja muito bem vindo!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Olá,+Mundo!;My+Name+is+Luís+Gustavo;Meu+Nome+é+Luís+Gustavo;I'm+17+years+old;Tenho+17+anos;I'm+from+Brazil;Sou+do+Brasil;Be+Welcome!+:%29;Seja+Bem+Vindo!+:%29;)](https://git.io/typing-svg)
 
-- 🔭 Atualmente estudo na Etec Zona Leste
-- 🌱 Estudando Javascript
-- 💗 Grato a todos que sempre me apoiaram desde sempre
-
-<div align="center">
-  <a href="https://github.com/LuGustavo10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lugustavo10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugustavo10&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuGustavo10&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Luís Gustavo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuGustavo10&layout=compact&hide_border=true&title_color=1E90FF&text_color=4682B4&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lu_10-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lu_10-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lu_10-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lu_10-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Lu_10-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-</div>
-
-##
- 
-<div> 
-
-  <a href="https://www.instagram.com/lu_g.ustavo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-  ![Snake animation](https://github.com/LuGustavo10/LuGustavo10/blob/output/github-contribution-grid-snake.svg)
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuGustavo10&bg_color=696969&color=ffffff&line=00008b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
