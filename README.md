@@ -27,6 +27,6 @@
   
 ![Snake animation](https://github.com/LuGustavo10/LuGustavo10/blob/output/github-contribution-grid-snake.svg) <br>
 
-<em>Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.</em>
+<em>Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.💻🔥</em>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
