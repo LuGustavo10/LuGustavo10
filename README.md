@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estudo na Etec Zona Leste
-- 🌱 Estudando Kotlin e Java
+- 🌱 Estudando Javascript
 - 💗 Grato a todos que sempre me apoiaram desde sempre
 
 <div align="center">
