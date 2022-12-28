@@ -25,7 +25,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   
-![Snake animation](https://github.com/Mayhem-eng/LuGustavo10/blob/output/github-contribution-grid-snake.svg) <br>
+![Snake animation](https://github.com/LuGustavo10/LuGustavo10/blob/output/github-contribution-grid-snake.svg) <br>
 
 <em>Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.</em>
   
